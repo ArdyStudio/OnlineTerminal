@@ -1,0 +1,8 @@
+{
+  "name": "AiChi Studio - Interactive Photobox",
+  "description": "A premium web-based photobooth with automated countdown, live filters, and instant photostrip generation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
